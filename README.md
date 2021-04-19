@@ -1,0 +1,1 @@
+# JavaScript-weird-Boolean-conversion
